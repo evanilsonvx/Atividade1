@@ -1,11 +1,5 @@
 # 📊 Desafio: Transformando Dados em Informação com Planilhas
 
-**Acesso aos arquivos:**
-- 🔗 [Link para a Planilha no Google Sheets](https://github.com/evanilsonvx/Atividade1/blob/main/vendas_auto_pecas.xlsx)
-- 📄 [Apresentação em PDF](Apresentação de Dados - Autopeças.pdf)
-- 📁 [Base de dados bruta (XLSX)](vendas_auto_pecas.xlsx)
-
----
 
 ## 1. O Tema Escolhido
 **Que situação você decidiu registrar?**
