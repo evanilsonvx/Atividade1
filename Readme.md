@@ -1,7 +1,7 @@
 # 📊 Desafio: Transformando Dados em Informação com Planilhas
 
 **Acesso aos arquivos:**
-- 🔗 [Link para a Planilha no Google Sheets](INSIRA_O_SEU_LINK_DO_GOOGLE_SHEETS_AQUI)
+- 🔗 [Link para a Planilha no Google Sheets](https://github.com/evanilsonvx/Atividade1/blob/main/vendas_auto_pecas.xlsx)
 - 📄 [Apresentação em PDF](NOME_DO_SEU_ARQUIVO_DE_APRESENTACAO.pdf)
 - 📁 [Base de dados bruta (XLSX)](vendas_auto_pecas.xlsx)
 
