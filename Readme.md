@@ -2,7 +2,7 @@
 
 **Acesso aos arquivos:**
 - 🔗 [Link para a Planilha no Google Sheets](https://github.com/evanilsonvx/Atividade1/blob/main/vendas_auto_pecas.xlsx)
-- 📄 [Apresentação em PDF](NOME_DO_SEU_ARQUIVO_DE_APRESENTACAO.pdf)
+- 📄 [Apresentação em PDF](Apresentação de Dados - Autopeças.pdf)
 - 📁 [Base de dados bruta (XLSX)](vendas_auto_pecas.xlsx)
 
 ---
